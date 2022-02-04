@@ -1,0 +1,1 @@
+web: gunicorn deltapestco.wsgi:application --log-file -
